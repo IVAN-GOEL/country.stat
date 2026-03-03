@@ -8,7 +8,7 @@
 
 ## 📺 Video Demo
 
-**[Watch the demo here](INSERT YOUR VIDEO URL HERE)**
+**[Watch the demo here](https://www.youtube.com/watch?v=EIITiDQ1heo)**
 
 ---
 
