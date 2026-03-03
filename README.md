@@ -1,5 +1,6 @@
 # country.stat
 WorldData is a Python command-line tool that fetches and visualizes real-world economic, military, and education data for any country using the World Bank API. Users can select a country, choose an indicator such as GDP growth, military expenditure, or school enrollment, and specify a year range to retrieve historical data. The program then displays a summary of the data and generates a line chart saved as a PNG file. All data is live and sourced directly from the World Bank's free public API, requiring no API key.
+<br>
 <img width="268" height="280" alt="Screenshot 2026-03-03 at 7 59 37 AM" src="https://github.com/user-attachments/assets/b3b3e55c-748a-406d-9578-f4a571f62f47" />
 <h2>features</h2>
 • Supports 180+ countries by full name</br>
